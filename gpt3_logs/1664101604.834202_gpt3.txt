@@ -1,0 +1,11 @@
+A user is playing twenty questions. They have asked the following question. Is this an allowed question? It must be in the form of a YES or NO question. Write False if it is not a yes or no question. Write true if it is a yes or no question.
+
+Person place or thing? False
+Is it a place? True
+Is it Abraham Lincoln? True
+What is the answer? False
+is it a thing?
+
+==========
+
+True

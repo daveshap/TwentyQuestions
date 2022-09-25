@@ -1,0 +1,45 @@
+A user is playing twenty questions. They have asked the following question. I have to answer Yes or No. 
+
+Secret: Cat
+Question: Is it a person?
+Answer: No
+
+Secret: George Washington
+Question: Is it a historical figure?
+Answer: Yes
+
+Secret: USA
+Question: Is it America?
+Answer: Correct!
+
+Secret: Bed
+Question: Do you sit on it?
+Answer: Yes
+
+Secret: Paris Hilton
+Question: Is it Abraham Lincoln?
+Answer: No
+
+Secret: Ice cream
+Question: Do you put it on your eyes?
+Answer: No
+
+Secret: Diamond
+Question: Is it diamonds?
+Answer: Correct!
+
+Secret: Pen
+Question: Is it involved with communication?
+Answer: Yes
+
+Secret: Gazelle
+Question: Is it an antelope?
+Answer: Correct!
+
+Secret: Couch
+Question: is it an ocean?
+Answer:
+
+==========
+
+No

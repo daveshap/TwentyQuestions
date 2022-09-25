@@ -1,0 +1,135 @@
+Lettuce
+Tomatoes
+Carrots
+Cucumbers
+Peppers
+Onions
+Potatoes
+Beans
+Corn
+Cabbage
+Squash
+Zucchini
+Pumpkins
+Fruit
+Bread
+Milk
+Butter
+Cheese
+Yogurt
+Eggs
+Chicken
+Beef
+Pork
+Fish
+Rice
+Pasta
+Flour
+Sugar
+Salt
+Pepper
+Coffee
+Tea
+Water
+Soda
+Juice
+Car
+Truck
+House
+Bike
+Sidewalk
+Street
+Grass
+Flower
+Tree
+Bush
+Fence
+Chair
+Table
+Couch
+TV
+Computer
+Printer
+Phone
+Pen
+Paper
+Desk
+Closet
+Lamp
+Door
+Window
+Blinds
+Curtains
+Shower
+Bath tub
+Toilet
+Sink
+Mirror
+Faucet
+Soap
+Towel
+Toothbrush
+Toothpaste
+Floss
+Brush
+Deodorant
+Perfume
+Body lotion
+Hair gel
+Shampoo
+Conditioner
+Hair dryer
+Razor
+Knife
+Fork
+Spoon
+Plate
+Bowl
+Glass
+Mug
+Pot
+Pan
+George Washington
+Cleopatra
+Confucius
+Julius Caesar
+Abraham Lincoln
+Napoleon
+Queen Elizabeth I
+Christopher Columbus
+Winston Churchill
+Adolf Hitler
+Mahatma Gandhi
+Nelson Mandela
+Leonardo da Vinci
+Michelangelo
+Galileo Galilei
+Julius Erving
+Babe Ruth
+Michael Jordan
+Muhammed Ali
+Tiger Woods
+Princess Diana
+Michael Jackson
+New York City
+Eiffel Tower
+Grand Canyon
+Nile River
+Angkor Wat
+Sydney Opera House
+Easter Island
+Petra
+Machu Picchu
+Chichen Itza
+Taj Mahal
+Great Barrier Reef
+Yellowstone National Park
+Yosemite National Park
+London
+Paris
+Rome
+Barcelona
+Venice
+Athens
+Istanbul
+Prague
